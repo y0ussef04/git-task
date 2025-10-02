@@ -1,1 +1,2 @@
  initializing my repo
+line 2 to make conflict by dev branch.
