@@ -1,2 +1,3 @@
  initializing my repo
 conflect solved by replacing old content by new .
+i have made login2 branch to test --no-ff to make logs clear 
