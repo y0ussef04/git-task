@@ -1,2 +1,2 @@
  initializing my repo
-line 2 to make conflict by dev branch.
+conflect solved by replacing old content by new .
