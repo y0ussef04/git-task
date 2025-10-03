@@ -2,3 +2,4 @@
 conflect solved by replacing old content by new .
 step 4 i will make merge history clear by using rebase
 case 1
+ security issue  handled 
